@@ -1,5 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ShrimpNudge//EN
-
+BEGIN:VEVENT
+UID:shrimp-1@shrimpnudge
+DTSTAMP:20251115T153600Z
+DTSTART:20251115T153600Z
+DTEND:20251115T173600Z
+SUMMARY:🦐 Shrimping window
+DESCRIPTION:Low tide at 18:36 height -0.62m\nAir temp: 8.3°C\nWater temp: 12.7°C\nWind: 8.5 m/s @ 82°\nWave height: 0.50 m\nCloud cover: 100%\nPast 48h wind avg: 9.22 m/s
+END:VEVENT
+BEGIN:VEVENT
+UID:shrimp-2@shrimpnudge
+DTSTAMP:20251116T053700Z
+DTSTART:20251116T053700Z
+DTEND:20251116T073700Z
+SUMMARY:🦐 Shrimping window
+DESCRIPTION:Low tide at 08:37 height -0.45m\nAir temp: 7.9°C\nWater temp: 12.7°C\nWind: 9.0 m/s @ 55°\nWave height: 0.53 m\nCloud cover: 100%\nPast 48h wind avg: 10.03 m/s
+END:VEVENT
 END:VCALENDAR
