@@ -3,26 +3,34 @@ VERSION:2.0
 PRODID:-//ShrimpNudge//EN
 BEGIN:VEVENT
 UID:shrimp-1@shrimpnudge
-DTSTAMP:20251216T051400Z
-DTSTART:20251216T051400Z
-DTEND:20251216T071400Z
+DTSTAMP:20251217T061900Z
+DTSTART:20251217T061900Z
+DTEND:20251217T081900Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 08:14 height -0.36m\nAir temp: 8.2°C\nWater temp: 9.3°C\nWind: 8.2 m/s @ 166°\nWave height: 0.51 m\nCloud cover: 81%\nPast 48h wind avg: 10.64 m/s
+DESCRIPTION:Low tide at 09:19 height -0.40m\nAir temp: 9.3°C\nWater temp: 9.2°C\nWind: 2.4 m/s @ 336°\nWave height: 0.25 m\nCloud cover: 95%\nPast 48h wind avg: 7.45 m/s
 END:VEVENT
 BEGIN:VEVENT
 UID:shrimp-2@shrimpnudge
-DTSTAMP:20251217T062000Z
-DTSTART:20251217T062000Z
-DTEND:20251217T082000Z
+DTSTAMP:20251220T081700Z
+DTSTART:20251220T081700Z
+DTEND:20251220T101700Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 09:20 height -0.40m\nAir temp: 9.4°C\nWater temp: 9.2°C\nWind: 6.4 m/s @ 212°\nWave height: 0.26 m\nCloud cover: 100%\nPast 48h wind avg: 7.53 m/s
+DESCRIPTION:Low tide at 11:17 height -0.55m\nAir temp: 4.0°C\nWater temp: 9.3°C\nWind: 3.1 m/s @ 165°\nWave height: 0.55 m\nCloud cover: 67%\nPast 48h wind avg: 7.98 m/s
 END:VEVENT
 BEGIN:VEVENT
 UID:shrimp-3@shrimpnudge
+DTSTAMP:20251221T085200Z
+DTSTART:20251221T085200Z
+DTEND:20251221T105200Z
+SUMMARY:🦐 Shrimping window
+DESCRIPTION:Low tide at 11:52 height -0.62m\nAir temp: 5.4°C\nWater temp: 9.2°C\nWind: 4.1 m/s @ 102°\nWave height: 0.40 m\nCloud cover: 99%\nPast 48h wind avg: 3.49 m/s
+END:VEVENT
+BEGIN:VEVENT
+UID:shrimp-4@shrimpnudge
 DTSTAMP:20251222T092800Z
 DTSTART:20251222T092800Z
 DTEND:20251222T112800Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 12:28 height -0.69m\nAir temp: 6.9°C\nWater temp: 9.0°C\nWind: 1.6 m/s @ 107°\nWave height: 0.26 m\nCloud cover: 100%\nPast 48h wind avg: 3.24 m/s
+DESCRIPTION:Low tide at 12:28 height -0.69m\nAir temp: 8.6°C\nWater temp: 9.1°C\nWind: 2.5 m/s @ 136°\nWave height: 0.33 m\nCloud cover: 100%\nPast 48h wind avg: 3.29 m/s
 END:VEVENT
 END:VCALENDAR
