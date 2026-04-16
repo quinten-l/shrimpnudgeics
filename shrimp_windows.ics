@@ -1,52 +1,5 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ShrimpNudge//EN
-BEGIN:VEVENT
-UID:shrimp-1@shrimpnudge
-DTSTAMP:20260415T055800Z
-DTSTART:20260415T055800Z
-DTEND:20260415T075800Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 09:58 height -0.81m\nAir temp: 9.4°C\nWater temp: 9.7°C\nWind: 6.7 m/s @ 157°\nWave height: 0.07 m\nCloud cover: 98%\nPast 48h wind avg: 3.71 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-2@shrimpnudge
-DTSTAMP:20260420T065200Z
-DTSTART:20260420T065200Z
-DTEND:20260420T085200Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 10:52 height -0.50m\nAir temp: 8.8°C\nWater temp: 10.6°C\nWind: 2.1 m/s @ 40°\nWave height: 0.43 m\nCloud cover: 99%\nPast 48h wind avg: 3.32 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-3@shrimpnudge
-DTSTAMP:20260420T102500Z
-DTSTART:20260420T102500Z
-DTEND:20260420T122500Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 14:25 height -0.74m\nAir temp: 9.7°C\nWater temp: 10.7°C\nWind: 3.6 m/s @ 124°\nWave height: 0.48 m\nCloud cover: 99%\nPast 48h wind avg: 3.19 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-4@shrimpnudge
-DTSTAMP:20260421T074400Z
-DTSTART:20260421T074400Z
-DTEND:20260421T094400Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 11:44 height -0.46m\nAir temp: 6.6°C\nWater temp: 10.4°C\nWind: 3.6 m/s @ 38°\nWave height: 0.60 m\nCloud cover: 100%\nPast 48h wind avg: 3.21 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-5@shrimpnudge
-DTSTAMP:20260422T085100Z
-DTSTART:20260422T085100Z
-DTEND:20260422T105100Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 12:51 height -0.40m\nAir temp: 11.3°C\nWater temp: 10.7°C\nWind: 5.4 m/s @ 85°\nWave height: 0.31 m\nCloud cover: 26%\nPast 48h wind avg: 3.33 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-6@shrimpnudge
-DTSTAMP:20260422T115300Z
-DTSTART:20260422T115300Z
-DTEND:20260422T135300Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 15:53 height -0.66m\nAir temp: 14.5°C\nWater temp: 11.0°C\nWind: 5.6 m/s @ 97°\nWave height: 0.27 m\nCloud cover: 89%\nPast 48h wind avg: 3.46 m/s
-END:VEVENT
+
 END:VCALENDAR
