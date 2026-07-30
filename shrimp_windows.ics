@@ -7,7 +7,7 @@ DTSTAMP:20260802T095900Z
 DTSTART:20260802T095900Z
 DTEND:20260802T115900Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 13:59 height -0.53m\nAir temp: 18.1°C\nWater temp: 20.9°C\nWind: 3.8 m/s @ 89°\nWave height: 0.42 m\nCloud cover: 100%\nPast 48h wind avg: 2.94 m/s
+DESCRIPTION:Low tide at 13:59 height -0.53m\nAir temp: 18.5°C\nWater temp: 21.3°C\nWind: 1.8 m/s @ 76°\nWave height: 0.26 m\nCloud cover: 80%\nPast 48h wind avg: 2.91 m/s
 END:VEVENT
 BEGIN:VEVENT
 UID:shrimp-2@shrimpnudge
@@ -15,6 +15,6 @@ DTSTAMP:20260803T103700Z
 DTSTART:20260803T103700Z
 DTEND:20260803T123700Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 14:37 height -0.52m\nAir temp: 28.1°C\nWater temp: 21.7°C\nWind: 4.5 m/s @ 247°\nWave height: 0.15 m\nCloud cover: 100%\nPast 48h wind avg: 3.33 m/s
+DESCRIPTION:Low tide at 14:37 height -0.52m\nAir temp: 21.2°C\nWater temp: 21.0°C\nWind: 1.9 m/s @ 62°\nWave height: 0.40 m\nCloud cover: 99%\nPast 48h wind avg: 2.61 m/s
 END:VEVENT
 END:VCALENDAR
