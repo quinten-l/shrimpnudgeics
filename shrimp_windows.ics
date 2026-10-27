@@ -7,7 +7,7 @@ DTSTAMP:20261030T071100Z
 DTSTART:20261030T071100Z
 DTEND:20261030T091100Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 10:11 height -0.24m\nAir temp: 9.7°C\nWater temp: 14.8°C\nWind: 2.3 m/s @ 99°\nWave height: 0.41 m\nCloud cover: 34%\nPast 48h wind avg: 2.76 m/s
+DESCRIPTION:Low tide at 10:11 height -0.24m\nAir temp: 7.7°C\nWater temp: 14.6°C\nWind: 1.8 m/s @ 130°\nWave height: 0.25 m\nCloud cover: 5%\nPast 48h wind avg: 3.99 m/s
 END:VEVENT
 BEGIN:VEVENT
 UID:shrimp-2@shrimpnudge
@@ -15,7 +15,7 @@ DTSTAMP:20261031T080200Z
 DTSTART:20261031T080200Z
 DTEND:20261031T100200Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 11:02 height -0.34m\nAir temp: 11.1°C\nWater temp: 14.7°C\nWind: 2.0 m/s @ 89°\nWave height: 0.29 m\nCloud cover: 15%\nPast 48h wind avg: 2.28 m/s
+DESCRIPTION:Low tide at 11:02 height -0.34m\nAir temp: 6.9°C\nWater temp: 14.3°C\nWind: 3.0 m/s @ 119°\nWave height: 0.34 m\nCloud cover: 42%\nPast 48h wind avg: 2.00 m/s
 END:VEVENT
 BEGIN:VEVENT
 UID:shrimp-3@shrimpnudge
@@ -23,6 +23,22 @@ DTSTAMP:20261031T111800Z
 DTSTART:20261031T111800Z
 DTEND:20261031T131800Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 14:18 height -0.50m\nAir temp: 14.1°C\nWater temp: 14.7°C\nWind: 2.4 m/s @ 87°\nWave height: 0.27 m\nCloud cover: 50%\nPast 48h wind avg: 2.31 m/s
+DESCRIPTION:Low tide at 14:18 height -0.50m\nAir temp: 7.6°C\nWater temp: 14.3°C\nWind: 2.6 m/s @ 128°\nWave height: 0.32 m\nCloud cover: 85%\nPast 48h wind avg: 1.96 m/s
+END:VEVENT
+BEGIN:VEVENT
+UID:shrimp-4@shrimpnudge
+DTSTAMP:20261101T090300Z
+DTSTART:20261101T090300Z
+DTEND:20261101T110300Z
+SUMMARY:🦐 Shrimping window
+DESCRIPTION:Low tide at 12:03 height -0.40m\nAir temp: 11.8°C\nWater temp: 14.2°C\nWind: 2.4 m/s @ 19°\nWave height: 0.16 m\nCloud cover: 92%\nPast 48h wind avg: 2.26 m/s
+END:VEVENT
+BEGIN:VEVENT
+UID:shrimp-5@shrimpnudge
+DTSTAMP:20261101T122600Z
+DTSTART:20261101T122600Z
+DTEND:20261101T142600Z
+SUMMARY:🦐 Shrimping window
+DESCRIPTION:Low tide at 15:26 height -0.53m\nAir temp: 14.0°C\nWater temp: 14.3°C\nWind: 2.8 m/s @ 5°\nWave height: 0.28 m\nCloud cover: 69%\nPast 48h wind avg: 2.30 m/s
 END:VEVENT
 END:VCALENDAR
