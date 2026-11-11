@@ -3,42 +3,18 @@ VERSION:2.0
 PRODID:-//ShrimpNudge//EN
 BEGIN:VEVENT
 UID:shrimp-1@shrimpnudge
-DTSTAMP:20261110T051700Z
-DTSTART:20261110T051700Z
-DTEND:20261110T071700Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 08:17 height -0.10m\nAir temp: 9.5°C\nWater temp: 12.9°C\nWind: 1.4 m/s @ 131°\nWave height: 0.11 m\nCloud cover: 4%\nPast 48h wind avg: 5.25 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-2@shrimpnudge
-DTSTAMP:20261110T084200Z
-DTSTART:20261110T084200Z
-DTEND:20261110T104200Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 11:42 height -0.50m\nAir temp: 9.1°C\nWater temp: 12.9°C\nWind: 4.3 m/s @ 134°\nWave height: 0.10 m\nCloud cover: 22%\nPast 48h wind avg: 5.19 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-3@shrimpnudge
 DTSTAMP:20261111T060100Z
 DTSTART:20261111T060100Z
 DTEND:20261111T080100Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 09:01 height -0.18m\nAir temp: 6.7°C\nWater temp: 12.7°C\nWind: 6.2 m/s @ 72°\nWave height: 0.21 m\nCloud cover: 100%\nPast 48h wind avg: 4.90 m/s
+DESCRIPTION:Low tide at 09:01 height -0.18m\nAir temp: 6.4°C\nWater temp: 12.6°C\nWind: 6.0 m/s @ 65°\nWave height: 0.16 m\nCloud cover: 100%\nPast 48h wind avg: 4.90 m/s
 END:VEVENT
 BEGIN:VEVENT
-UID:shrimp-4@shrimpnudge
+UID:shrimp-2@shrimpnudge
 DTSTAMP:20261111T090800Z
 DTSTART:20261111T090800Z
 DTEND:20261111T110800Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 12:08 height -0.51m\nAir temp: 7.0°C\nWater temp: 12.7°C\nWind: 6.0 m/s @ 53°\nWave height: 0.23 m\nCloud cover: 73%\nPast 48h wind avg: 4.82 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-5@shrimpnudge
-DTSTAMP:20261115T103800Z
-DTSTART:20261115T103800Z
-DTEND:20261115T123800Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 13:38 height -0.59m\nAir temp: 1.2°C\nWater temp: 12.0°C\nWind: 2.7 m/s @ 166°\nWave height: 0.46 m\nCloud cover: 100%\nPast 48h wind avg: 2.86 m/s
+DESCRIPTION:Low tide at 12:08 height -0.51m\nAir temp: 5.4°C\nWater temp: 12.6°C\nWind: 5.5 m/s @ 57°\nWave height: 0.22 m\nCloud cover: 98%\nPast 48h wind avg: 4.81 m/s
 END:VEVENT
 END:VCALENDAR
