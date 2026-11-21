@@ -3,66 +3,50 @@ VERSION:2.0
 PRODID:-//ShrimpNudge//EN
 BEGIN:VEVENT
 UID:shrimp-1@shrimpnudge
-DTSTAMP:20261122T061500Z
-DTSTART:20261122T061500Z
-DTEND:20261122T081500Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 09:15 height -0.39m\nAir temp: 8.1°C\nWater temp: 11.0°C\nWind: 2.6 m/s @ 99°\nWave height: 0.56 m\nCloud cover: 63%\nPast 48h wind avg: 4.99 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-2@shrimpnudge
 DTSTAMP:20261122T150800Z
 DTSTART:20261122T150800Z
 DTEND:20261122T170800Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 18:08 height -0.31m\nAir temp: 8.5°C\nWater temp: 11.0°C\nWind: 7.0 m/s @ 75°\nWave height: 0.45 m\nCloud cover: 21%\nPast 48h wind avg: 4.91 m/s
+DESCRIPTION:Low tide at 18:08 height -0.31m\nAir temp: 8.6°C\nWater temp: 10.9°C\nWind: 5.3 m/s @ 59°\nWave height: 0.52 m\nCloud cover: 42%\nPast 48h wind avg: 5.01 m/s
 END:VEVENT
 BEGIN:VEVENT
-UID:shrimp-3@shrimpnudge
+UID:shrimp-2@shrimpnudge
 DTSTAMP:20261123T065300Z
 DTSTART:20261123T065300Z
 DTEND:20261123T085300Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 09:53 height -0.40m\nAir temp: 0.4°C\nWater temp: 10.8°C\nWind: 2.3 m/s @ 96°\nWave height: 0.56 m\nCloud cover: 38%\nPast 48h wind avg: 4.12 m/s
+DESCRIPTION:Low tide at 09:53 height -0.40m\nAir temp: 6.9°C\nWater temp: 10.8°C\nWind: 2.4 m/s @ 93°\nWave height: 0.49 m\nCloud cover: 3%\nPast 48h wind avg: 4.90 m/s
 END:VEVENT
 BEGIN:VEVENT
-UID:shrimp-4@shrimpnudge
-DTSTAMP:20261124T041800Z
-DTSTART:20261124T041800Z
-DTEND:20261124T061800Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 07:18 height -0.02m\nAir temp: -2.3°C\nWater temp: 10.7°C\nWind: 1.9 m/s @ 135°\nWave height: 0.43 m\nCloud cover: 4%\nPast 48h wind avg: 2.48 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-5@shrimpnudge
+UID:shrimp-3@shrimpnudge
 DTSTAMP:20261124T072800Z
 DTSTART:20261124T072800Z
 DTEND:20261124T092800Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 10:28 height -0.40m\nAir temp: -2.3°C\nWater temp: 10.7°C\nWind: 2.6 m/s @ 131°\nWave height: 0.45 m\nCloud cover: 68%\nPast 48h wind avg: 2.47 m/s
+DESCRIPTION:Low tide at 10:28 height -0.40m\nAir temp: -1.1°C\nWater temp: 10.6°C\nWind: 2.0 m/s @ 158°\nWave height: 0.33 m\nCloud cover: 100%\nPast 48h wind avg: 3.77 m/s
 END:VEVENT
 BEGIN:VEVENT
-UID:shrimp-6@shrimpnudge
-DTSTAMP:20261126T052600Z
-DTSTART:20261126T052600Z
-DTEND:20261126T072600Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 08:26 height -0.18m\nAir temp: 4.4°C\nWater temp: 10.2°C\nWind: 4.7 m/s @ 76°\nWave height: 0.16 m\nCloud cover: 98%\nPast 48h wind avg: 4.72 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-7@shrimpnudge
-DTSTAMP:20261126T084600Z
-DTSTART:20261126T084600Z
-DTEND:20261126T104600Z
-SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 11:46 height -0.47m\nAir temp: 4.2°C\nWater temp: 10.1°C\nWind: 4.7 m/s @ 78°\nWave height: 0.12 m\nCloud cover: 76%\nPast 48h wind avg: 4.85 m/s
-END:VEVENT
-BEGIN:VEVENT
-UID:shrimp-8@shrimpnudge
+UID:shrimp-4@shrimpnudge
 DTSTAMP:20261127T060900Z
 DTSTART:20261127T060900Z
 DTEND:20261127T080900Z
 SUMMARY:🦐 Shrimping window
-DESCRIPTION:Low tide at 09:09 height -0.29m\nAir temp: -0.1°C\nWater temp: 9.9°C\nWind: 3.0 m/s @ 97°\nWave height: 0.13 m\nCloud cover: 5%\nPast 48h wind avg: 4.58 m/s
+DESCRIPTION:Low tide at 09:09 height -0.29m\nAir temp: -1.1°C\nWater temp: 9.8°C\nWind: 2.7 m/s @ 72°\nWave height: 0.17 m\nCloud cover: 0%\nPast 48h wind avg: 4.70 m/s
+END:VEVENT
+BEGIN:VEVENT
+UID:shrimp-5@shrimpnudge
+DTSTAMP:20261128T065600Z
+DTSTART:20261128T065600Z
+DTEND:20261128T085600Z
+SUMMARY:🦐 Shrimping window
+DESCRIPTION:Low tide at 09:56 height -0.39m\nAir temp: -0.2°C\nWater temp: 9.6°C\nWind: 3.7 m/s @ 73°\nWave height: 0.33 m\nCloud cover: 3%\nPast 48h wind avg: 3.31 m/s
+END:VEVENT
+BEGIN:VEVENT
+UID:shrimp-6@shrimpnudge
+DTSTAMP:20261128T102100Z
+DTSTART:20261128T102100Z
+DTEND:20261128T122100Z
+SUMMARY:🦐 Shrimping window
+DESCRIPTION:Low tide at 13:21 height -0.58m\nAir temp: 2.5°C\nWater temp: 9.6°C\nWind: 5.0 m/s @ 74°\nWave height: 0.28 m\nCloud cover: 0%\nPast 48h wind avg: 3.28 m/s
 END:VEVENT
 END:VCALENDAR
